@@ -5,7 +5,7 @@ import MarkdownPreview from 'vite-plugin-markdown-preview'
 import { groupIconMdPlugin, groupIconVitePlugin, localIconLoader } from 'vitepress-plugin-group-icons'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/test-demo',
+  base: '/docs-demo/',
   // 项目标题
   title: "小小汪",
   description: "小小汪",
